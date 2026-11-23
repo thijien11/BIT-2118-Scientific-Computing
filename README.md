@@ -2,12 +2,12 @@
 # BIT 2118 — Scientific Computing
 ## Final Technical Submission Report
 
-**Student:** Ayman Muhammad  
-**Student ID:** BSCCS/2025/30137  
+**Student:** THIJIEN CHIKOT JAL 
+**Student ID:** BSCCS/2025/30142 
 **Course:** BIT 2118 — Scientific Computing  
 **Assignment:** Group Work — Tasks 02–20  
 **Submission date:** 10 October 2026  
-**GitHub repository:** https://github.com/Ayman-muhammad/Scientific_computing-  
+**GitHub repository:** https://github.com/thijien11/BIT-2118-Scientific-Computing
 **Branch:** `main`  
 **Reference commit:** `ac9d7dc`  
 **Release:** `v1.0.0` — create and verify this tag before describing it as a published release.
