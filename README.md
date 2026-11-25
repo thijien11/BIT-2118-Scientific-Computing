@@ -1023,9 +1023,9 @@ The following figure files are referenced in this report. These names are a repo
 
 **End of Final Submission Report**
 
-**Submission repository:** https://github.com/Ayman-muhammad/Scientific_computing-
+**Submission repository:** https://github.com/thijien11/Scientific_computing-
 
-**Student:** Ayman Muhammad  
+**Student:** Thijien Chikot 
 **Course:** BIT 2118 — Scientific Computing  
 **Submission date:** 10 October 2026
 """
